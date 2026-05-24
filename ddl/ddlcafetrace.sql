@@ -1,9 +1,6 @@
--- ============================================================
+
 -- CaféTrace - Script DDL PostgreSQL
--- Schema: cafetrace
--- Autores: Luisa Fernanda Ovallos Carrascal - Oscar Ivan Becerra Ovallos
--- Versión: 1.0 PostgreSQL
--- ============================================================
+-- Autores: Luisa Fernanda Ovallos Carrascal 
 
 -- Crear schema si no existe
 CREATE SCHEMA IF NOT EXISTS cafetrace;
